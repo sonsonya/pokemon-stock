@@ -1,0 +1,79 @@
+.title {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.011em;
+  color: #333333;
+}
+
+.text-primary-color {
+  /* font-family: 'Nunito Sans'; */
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.006em;
+  color: #006A7A;
+}
+
+.text-primary-black {
+  /* font-family: 'Rubik'; */
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: -0.006em;
+  color: #333333;
+}
+
+.text-bold-black {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.011em;
+  color: #333333;
+}
+
+.text-big-black {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: -0.021em;
+  color: #333333;
+  margin-bottom: 30px;
+}
+
+.text-middle-black {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.017em;
+  color: #333333;
+}
+
+.searchbox {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 6px 8px;
+  margin: 20px 0px;
+}
+
+.icon-back {
+  width: 16px;
+  height: 14px;
+  color: #006A7A;
+  margin: 4px 4px;
+}
